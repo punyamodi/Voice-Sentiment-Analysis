@@ -1,5 +1,8 @@
 # Voice-Sentiment-Analysis
 
+<img width="1279" alt="image" src="https://github.com/punyamodi/Voice-Sentiment-Analysis-BERT/assets/68418104/2e43586a-8807-4de6-ac74-03b341853d89">
+
+
 The provided code constitutes a comprehensive audio analysis system designed for applications in telemarketing and the service industry. The system leverages Gradio, a user-friendly interface for machine learning models, to create an interactive and efficient solution. This audio analysis system is capable of extracting valuable insights from spoken language, catering to various aspects of communication in customer service and telemarketing scenarios.
 
 At its core, the system utilizes automatic speech recognition through the Whisper ASR model, allowing it to transcribe spoken audio into textual format. This transcription forms the basis for a multi-faceted analysis that includes sentiment analysis, emotion detection, profanity checking, and summarization.
